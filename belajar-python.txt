@@ -1,0 +1,6 @@
+belajar python 
+- pandas
+  *group by
+  *delnull
+- numpy
+- matplotltib
