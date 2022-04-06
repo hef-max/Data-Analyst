@@ -1,4 +1,5 @@
 belajar python 
 - pandas
+ *group by
 - numpy
 - matplotltib
