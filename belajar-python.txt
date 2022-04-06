@@ -1,0 +1,4 @@
+belajar python 
+- pandas
+- numpy
+- matplotltib
