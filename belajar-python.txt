@@ -1,5 +1,6 @@
 belajar python 
 - pandas
- *group by
+  *group by
+  *delnull
 - numpy
 - matplotltib
